@@ -103,6 +103,12 @@ Gid это распределенная система управления ве
 
     git checkout <branch_name>
 
+Для переключения в ветку "master", команда:
+
+    git checkout master
+
+
+
 
 
 
